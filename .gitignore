@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.yarn/
+.pnpm-debug.log*
+
+# Wrangler
+.wrangler/
+wrangler.toml
+
+# Tests / Coverage
+coverage/
+.vitest/
+
+# Sistema
+.DS_Store
+*.log
+
+# Archivos temporales
+*.zip
+*.tar.gz
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
